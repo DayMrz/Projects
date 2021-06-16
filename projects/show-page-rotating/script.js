@@ -20,5 +20,8 @@ function removeActiveClasses() {
 openNav.addEventListener('click', () => {
     container.classList.add('show-nav')
 })
+closeNav.addEventListener('click', () => {
+    container.classList.remove('show-nav')
+})
 
 
