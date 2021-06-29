@@ -39,7 +39,7 @@ body {
   }
 
 .circle {
-  background-color: rgb(158, 92, 179) ;
+  background-color: rgb(92, 27, 112) ;
   height: 200px;
   width: 200px;
   border-radius: 50%;
@@ -173,8 +173,6 @@ nav ul li + li + li {
   max-width: 100%;
   max-height: 80vh;
 }
-
-
 
 .row {
   display: flex;
