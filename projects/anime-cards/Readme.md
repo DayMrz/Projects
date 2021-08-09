@@ -11,5 +11,5 @@
 - [JavaScript](https://www.javascript.com/)
 
 ### This is how it looks! 
-projects\anime-cards\
+
 <img align="center" src="./expanding-card-ezgif.com-gif-maker.gif" alt="The Rising of the shield Hero Expanding Cards">
