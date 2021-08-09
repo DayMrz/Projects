@@ -1,4 +1,4 @@
-<h1 align="center">  Expanding Cards </h1>
+<h1 align="center">  Hidden Search </h1>
 <p align="left"> This project is part of 50 Projects in 50 days. 
 
 I decided to add a background with the CSS function repeating-linear-gradient()</p>

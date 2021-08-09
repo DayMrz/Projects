@@ -1,4 +1,4 @@
-<h1 align="center">  Expanding Cards </h1>
+<h1 align="center"> Progress Steps </h1>
 <p align="left"> This project is part of 50 Projects in 50 days. </p>
 
 
