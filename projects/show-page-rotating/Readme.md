@@ -14,4 +14,4 @@
 
 <br>
 
-<img align="center" src="./rotating-page-ezgif.com-gif-maker.gif" alt="The Rising of the shield Hero Expanding Cards">
+<img align="center" src="./rotating-page-ezgif.com-gif-maker.gif" alt="gif rotating page">

@@ -14,4 +14,4 @@
 
 <br>
 
-<img align="center" src="./progress-steps-ezgif.com-gif-maker.gif" alt="The Rising of the shield Hero Expanding Cards">
+<img align="center" src="./progress-steps-ezgif.com-gif-maker.gif" alt="gif for progress steps from 1 to 4">

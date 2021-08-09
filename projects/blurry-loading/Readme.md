@@ -14,4 +14,4 @@
 
 <br>
 
-<img align="center" src="./blurry-loading-ezgif.com-gif-maker.gif" alt="Germa 66. Vinsmoke Yonji, Vinsmoke Ichiji, Vinsmoke Niji">
+<img align="center" src="./blurry-loading-ezgif.com-gif-maker.gif" alt="blurry gif. Germa 66. Vinsmoke Yonji, Vinsmoke Ichiji, Vinsmoke Niji">
