@@ -1,5 +1,7 @@
 <h1 align="center">  Expanding Cards </h1>
-<p align="left"> This project is part of 50 Projects in 50 days. I have updated the images with one of my favorite Anime.</p>
+<p align="left"> This project is part of 50 Projects in 50 days. 
+
+I decided to add a background with the CSS function repeating-linear-gradient()</p>
 
 
 ## Build With
@@ -14,4 +16,4 @@
 
 <br>
 
-<img align="center" src="./expanding-card-ezgif.com-gif-maker.gif" alt="The Rising of the shield Hero Expanding Cards">
+<img align="center" src="./hidden-search-ezgif.com-gif-maker.gif" alt="The Rising of the shield Hero Expanding Cards">

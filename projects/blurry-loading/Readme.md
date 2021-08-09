@@ -1,5 +1,5 @@
-<h1 align="center">  Expanding Cards </h1>
-<p align="left"> This project is part of 50 Projects in 50 days. I have updated the images with one of my favorite Anime.</p>
+<h1 align="center">  Blurry Loading Image </h1>
+<p align="left"> This project is part of 50 Projects in 50 days. I have updated the image</p>
 
 
 ## Build With
@@ -14,4 +14,4 @@
 
 <br>
 
-<img align="center" src="./expanding-card-ezgif.com-gif-maker.gif" alt="The Rising of the shield Hero Expanding Cards">
+<img align="center" src="./blurry-loading-ezgif.com-gif-maker.gif" alt="Germa 66. Vinsmoke Yonji, Vinsmoke Ichiji, Vinsmoke Niji">
