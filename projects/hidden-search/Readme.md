@@ -16,4 +16,4 @@ I decided to add a background with the CSS function repeating-linear-gradient()<
 
 <br>
 
-<img align="center" src="./hidden-search-ezgif.com-gif-maker.gif" alt="The Rising of the shield Hero Expanding Cards">
+<img align="center" src="./hidden-search-ezgif.com-gif-maker.gif" alt="">
